@@ -1,12 +1,51 @@
-CSRP V1 RELEASE
+CSRP V3 RELEASE 
 
 LAW ENFORCEMENT REVAMP
-Our excellent law enforcement departments have recieved a much-needed re-haul. With new vehicle models, new livery designs, and new uniforms, our departments in CSRP are some of the best that FiveM offers. There is no better time to join a LEO department!
+Our excellent enforcement departments have received a much-needed re-haul.
+With new vehicle models, new livery designs, and new uniforms, our departments 
+in CSRP are some of the best that FiveM offers. There is no better time to join
+an LEO department!
 
-PIGGY BACK
-Now, you can piggyback with a friend! Type /piggyback in chat near another player, and you can run around while riding the back of another player!
+SKATEBOARDS
+Skateboards are now in-game! We have created a skateboard script allowing you to
+spawn and ride a skateboard. Type /skateboard and skateboard will appear in your 
+hand with a prompt.
 
-GUN STORE REVAMP
-Our gun stores have been a staple in reducing RDM and making the weapon experience realistic. Now, all gun stores feature a custom interior, and weapons will now appear on the counter instead of the wall!
+PIGGY BACK 
+Now, you can piggyback with a friend! Type /piggyback in chat near another play. and
+you can run around while riding the back of another player!
+
+GUN STORE REVAMP 
+Our gun stores have been a staple in reducing RDM and making the weapon experience realistic. Now, all gun stores feature a custom interior, and weapons will
+now appear on the counter instead of the wall!
 
 YELLOW JACK REVAMP
+After a community vote, we have decided to bring back the OG style of the Yellow
+Jack. Not only does the original style come back, but a second floor has been
+revamped to feature a rustic style for an even better roleplay experience.
+
+REPAIR SHOP REVAMP
+Repairing your vehicle used to be a simple command,and you'd continue driving.
+Now this experience is in-depth! You can type /repair at any mechanic shop, and an
+NPC will spawn and repair your engine. This brings a realistic experience when
+repairing your vehicle, instead of typing a command and driving away.
+
+CRASHING PHYSICS
+Crashing your vehicle is no longer the same. Now if you launch your car off a high
+area and land, tires will fall off your vehicle, making it harder to drive! This creation
+brings an even better realistic experience when crashing your car.
+
+MISC UPDATES
+-Sandy PD is now back.
+-Legion gun store is now open to the public
+-LEO can now select a player before cuffing & dragging.
+-Cuffing & dragging has new animations.
+-Enhanced Civilian can now seat players through the F5 menu.
+-The loading screen has now been revamped entirely. 
+-Mass DVs will now show the total number of cars deleted.
+-Pushing vehicles is now smoother with a revamped version.
+-Players can now save a wheel position when exiting. Hold ctrl, position the wheel &
+exit.
+-Safe zones now have a green circle on the map.
+-Major performance boost at Grove with the removal of the interiors.
+-Major performance boost in Sandy & Paleto with the removal of motels.
